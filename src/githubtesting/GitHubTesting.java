@@ -18,6 +18,7 @@ public class GitHubTesting {
         // TODO code application logic here
         System.out.println("Hello World");
         System.out.println("test");
+        System.out.println("push");
     }
     
 }
