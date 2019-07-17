@@ -22,6 +22,7 @@ public class GitHubTesting {
         System.out.println("push test two");
         System.out.println("push test three");
         System.out.println("pull test");
+        System.out.println("pull test");
     }
     
 }
